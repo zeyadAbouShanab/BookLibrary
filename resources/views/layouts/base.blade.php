@@ -18,7 +18,7 @@
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark fixed-top">
         <div class="container-fluid">
             <a class="navbar-brand" style="font-size: 200% ;font-family: monospace" href="{{ route('main') }}">MyLibrary</a>
-            <img src="https://freepikpsd.com/file/2019/10/book-png-image-1-Transparent-Images-Free.png" alt="Girl in a jacket" width="50" height="50">
+            <img src="https://freepngimg.com/thumb/book/9-open-book-png-image.png" width="50" height="50">
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
                 <span class="navbar-toggler-icon"></span>
